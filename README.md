@@ -22,12 +22,6 @@ Detect lane lines from a front-facing camera feed in a driving scenario using cl
 
 ---
 
-### **Dataset / Input**  
-- Used sample driving video clips from [**Udacity's Self-Driving Car Dataset**](https://github.com/udacity/self-driving-car).  
-- Video frames simulate real-world front camera view from a car on a road.
-
----
-
 ### **How It Works**
 
 1. **Video Frame Extraction**
